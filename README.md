@@ -17,7 +17,7 @@ Say **`exit`** to stop the application after the current speech input has been p
 
 ```text
 FYP/
-├── S_to_S.py       # Main speech-to-sign-language script
+├── Speech_to_Sign.py       # Main speech-to-sign-language script
 ├── ASL_Dataset/    # Dataset folder for ASL images (0-9 digits and A-Z alphabets)
 └── README.md       # Project documentation
 ```
