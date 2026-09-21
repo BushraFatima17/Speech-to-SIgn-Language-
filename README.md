@@ -100,6 +100,11 @@ dataset_path = r" "  #Add the path of the dataset
 
 5. Speak clearly when prompted. The recognized words will be displayed as sign-letter image sequences.
 
+## Results
+<img width="2929" height="798" alt="Hello picture" src="https://github.com/user-attachments/assets/6db08999-6b66-40e5-820a-ef9a20ee696e" />
+
+<img width="4391" height="505" alt="Presentation_picture" src="https://github.com/user-attachments/assets/eef9759c-2c9f-43fc-99f4-f4b89f271fc6" />
+
 ## Limitations
 
 - Speech recognition uses Google's online service, so an internet connection is required.
