@@ -119,4 +119,6 @@ dataset_path = r" "  #Add the path of the dataset
 - Support multiple images, animations, or videos for each sign.
 - Add offline speech-recognition support.
 - Support complete sign-language vocabulary and sentence structure.
+- Introduce datasets for Urdu language, enabling text-to-sign conversion for diverse linguistic communities.
+
 
