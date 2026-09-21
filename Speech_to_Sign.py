@@ -3,7 +3,7 @@ import os
 import matplotlib.pyplot as plt
 import speech_recognition as sr
 
-dataset_path = r"search-ms:displayname=Search%20Results%20in%20OneDrive%20-%20Higher%20Education%20Commission&crumb=location:C%3A%5CUsers%5CWhizz%5COneDrive%20-%20Higher%20Education%20Commission\Speech to sign"
+dataset_path = r" "   #Add your dataset path over here 
 
 def process_word(word):
     combined_image = None
