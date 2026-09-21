@@ -66,6 +66,9 @@ ASL_dataset/
 └── ...
 ```
 
+You can download the dataset from here
+"https://www.kaggle.com/datasets/ayuraj/asl-dataset"
+
 Each letter folder should contain at least one readable image. The script currently uses the first file returned from each folder.
 
 Before running the program, update `dataset_path` in `Speech_to_Sign.py` to the location of your dataset. The current value is a machine-specific Windows search path and must be replaced on another computer.
@@ -85,7 +88,7 @@ dataset_path = r" "  #Add the path of the dataset
    cd FYP
    ```
 
-2. Configure `dataset_path` in `S_to_S.py`.
+2. Configure `dataset_path` in `Speech_to_Sign.py`.
 
 3. Install the dependencies.
 
@@ -101,8 +104,6 @@ dataset_path = r" "  #Add the path of the dataset
 
 - Speech recognition uses Google's online service, so an internet connection is required.
 - Recognition accuracy depends on microphone quality, background noise, pronunciation, and network availability.
-- Only the first image found in each letter folder is displayed.
-- The dataset path is currently hard-coded and should be made configurable for production use.
 
 ## Future Improvements
 
