@@ -13,6 +13,10 @@ A Python prototype that converts spoken words into visual sign-language sequence
 
 Say **`exit`** to stop the application after the current speech input has been processed.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/fcea4dee-4ac5-46ee-85fb-aa836912db8e
+
 ## Project Structure
 
 ```text
