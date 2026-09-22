@@ -2,6 +2,10 @@
 
 A Python prototype that converts spoken words into visual sign-language sequences. The application listens through a microphone, uses Google Speech Recognition to transcribe speech, and displays images for each letter of every recognized word.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/fcea4dee-4ac5-46ee-85fb-aa836912db8e
+
 ## How It Works
 
 1. Captures audio from the system microphone.
@@ -12,10 +16,6 @@ A Python prototype that converts spoken words into visual sign-language sequence
 6. Combines the letter images horizontally and displays the resulting visual sequence.
 
 Say **`exit`** to stop the application after the current speech input has been processed.
-
-## Demo Video
-
-https://github.com/user-attachments/assets/fcea4dee-4ac5-46ee-85fb-aa836912db8e
 
 ## Project Structure
 
